@@ -1,9 +1,16 @@
-USO
+# openvpn-install
 
-curl -O https://raw.githubusercontent.com/4kr0g/openvpn-install/refs/heads/main/openvpn_install.sh
+*Instalador de OpenVPN para Debian, Ubuntu, Fedora, CentOS, Arch Linux, Oracle Linux, Rocky Linux y AlmaLinux.*
 
-chmod +x openvpn-install.sh
+*Este script te permitirá configurar fácilmente tu propio servidor VPN seguro en cuestión de segundos.*
 
-Ejecutar:
 
-./openvpn-install.sh
+**USO**
+
+`curl -O https://raw.githubusercontent.com/4kr0g/openvpn-install/refs/heads/main/openvpn_install.sh`
+
+`chmod +x openvpn-install.sh`
+
+**Ejecutar:**
+
+`./openvpn-install.sh`
